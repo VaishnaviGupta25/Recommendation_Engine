@@ -1,7 +1,7 @@
-# SHL Assessment Recommendation Engine
+# Recommendation Engine
 
 ## Overview
-This project is a rule-based recommendation engine that suggests suitable SHL assessments based on job role, skills, experience level, and industry.
+This project is a rule-based recommendation engine that suggests on job role, skills, experience level, and industry.
 
 ## Technologies Used
 - Python
